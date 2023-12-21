@@ -25,21 +25,15 @@ She is a VSinger that composes most of her music and also streams as a VTuber
 
 ## Map showcase
 
-### Palace of Glass
+#### Palace of Glass
+- **Normal** - 366 notes - 1.79 nps - [YouTube](https://youtu.be/kincBdcyYj4)
+- **Hard** - 525 notes - 2.56 nps - [YouTube](https://youtu.be/kooc_ygiHVw)
+- **Expert** - 791 notes - 3.86 nps - [YouTube](https://youtu.be/kincBdcyYj4)
 
-**Normal** - 366 notes - 1.79 nps
-[![Palace of Glass - Normal](https://img.youtube.com/vi/kincBdcyYj4/maxresdefault.jpg)](https://youtu.be/kincBdcyYj4)
-**Hard** - 525 notes - 2.56 nps
-[![Palace of Glass - Hard](https://img.youtube.com/vi/kooc_ygiHVw/maxresdefault.jpg)](https://youtu.be/kooc_ygiHVw)
-**Expert** - 791 notes - 3.86 nps
-[![Watch the video - Expert](https://img.youtube.com/vi/kincBdcyYj4/maxresdefault.jpg)](https://youtu.be/kincBdcyYj4)
-
-**Hard** - 405 notes - 2.60 nps
-[![Meteor - Hard](https://img.youtube.com/vi/TEuVHXZfqU4/maxresdefault.jpg)](https://youtu.be/TEuVHXZfqU4)
-**Single Saber - Expert** - 359 notes - 2.31 nps
-[![Meteor - Single Saber - Expert](https://img.youtube.com/vi/JDhlVuBoZaU/maxresdefault.jpg)](https://youtu.be/JDhlVuBoZaU)
-**Expert+** - 715 notes - 4.59 nps
-[![Meteor - Expert+](https://img.youtube.com/vi/SgDnngMdg24/maxresdefault.jpg)](https://youtu.be/SgDnngMdg24)
+#### Meteor
+- **Hard** - 405 notes - 2.60 nps - [YouTube](https://youtu.be/TEuVHXZfqU4)
+- **Expert [Single Saber]** - 359 notes - 2.31 nps - [YouTube](https://youtu.be/JDhlVuBoZaU)
+- **Expert+** - 715 notes - 4.59 nps - [YouTube](https://youtu.be/SgDnngMdg24)
 
 ## Artwork
 
