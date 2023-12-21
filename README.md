@@ -32,8 +32,8 @@ She is a VSinger that composes most of her music and also streams as a VTuber
 
 #### Meteor
 - **Hard** - 405 notes - 2.60 nps - [YouTube](https://youtu.be/TEuVHXZfqU4)
-- **Expert [Single Saber]** - 359 notes - 2.31 nps - [YouTube](https://youtu.be/JDhlVuBoZaU)
-- **Expert+** - 715 notes - 4.59 nps - [YouTube](https://youtu.be/SgDnngMdg24)
+- **Expert [Single Saber]** - 359 notes - 2.31 nps - [YouTube](https://youtu.be/SgDnngMdg24)
+- **Expert+** - 715 notes - 4.59 nps - [YouTube](https://youtu.be/JDhlVuBoZaU)
 
 ## How to play the maps
 
