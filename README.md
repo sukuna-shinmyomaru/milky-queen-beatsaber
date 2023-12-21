@@ -69,9 +69,9 @@ You can generate the needed file `song.ogg` with [Audacity](https://www.audacity
 - Go to `File > Export Audio`
 - Select `Format: Ogg Vorbis Files`
 - Audio options recommended:
-	- Channels: `Stereo`
-	- Sample Rate: `44100` or `48000` Hz (should match your source file by default)
-	- Quality: `8`
+  - Channels: `Stereo`
+  - Sample Rate: `44100` or `48000` Hz (should match your source file by default)
+  - Quality: `8`
 - Setting the File Name to `song.ogg` press _Export_ and place it along the other files
 
 ### Song information
