@@ -19,7 +19,7 @@ This is a collection of the Milky Queen songs I have mapped and can be played on
 
 She is a VSinger that composes most of her music and also streams as a VTuber
 
-[Twitter](https://twitter.com/milkyqueen_idol/) - [YouTube](https://www.youtube.com/@MilkyQueenVsinger)
+[Twitch](https://www.twitch.tv/milkyqueen_idol) - [YouTube](https://www.youtube.com/@MilkyQueenVsinger) - [Twitter](https://twitter.com/milkyqueen_idol/)
 
 [Milky Way (EP)](https://linkco.re/dy4ZpFgH)
 
