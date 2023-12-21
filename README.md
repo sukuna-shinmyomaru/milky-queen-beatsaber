@@ -26,7 +26,7 @@ She is a VSinger that composes most of her music and also streams as a VTuber
 ## Map showcase
 
 #### Palace of Glass
-- **Normal** - 366 notes - 1.79 nps - [YouTube](https://youtu.be/kincBdcyYj4)
+- **Normal** - 366 notes - 1.79 nps - [YouTube](https://youtu.be/t8FX5rr9rMs)
 - **Hard** - 525 notes - 2.56 nps - [YouTube](https://youtu.be/kooc_ygiHVw)
 - **Expert** - 791 notes - 3.86 nps - [YouTube](https://youtu.be/kincBdcyYj4)
 
