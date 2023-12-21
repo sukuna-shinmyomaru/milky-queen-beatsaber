@@ -57,7 +57,7 @@ The song must be encoded with _OGG Vorbis_. You'll have to add silence at the st
 
 ### Converting the song for BeatSaber
 
-You can generate the needed file `song.ogg` with [Audacity](https://www.audacityteam.org/) or any other audio editor. Audacity is open source and free, so I 
+You can generate the needed file `song.ogg` with [Audacity](https://www.audacityteam.org/) or any other audio editor. Audacity is open source and free, so I'm going to explain how to do it with this tool.
 
 1. Get the song file(s): **[You can purchase/stream the EP songs here](https://linkco.re/dy4ZpFgH)**
 2. To generate silence:
