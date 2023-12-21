@@ -36,6 +36,9 @@ She is a VSinger that composes most of her music and also streams as a VTuber
 - **Expert+** - 715 notes - 4.59 nps - [YouTube](https://youtu.be/SgDnngMdg24)
 
 ## How to play the maps
+
+First of all, **download the [latest release](https://github.com/sukuna-shinmyomaru/milky-queen-beatsaber/releases) of maps**
+
 To play the map you need to place the song as a file called `song.ogg` alongside the other files, and the directory should look like this:
 
 ```
