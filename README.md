@@ -8,12 +8,12 @@ This is a collection of the Milky Queen songs I have mapped and can be played on
 
 [Map showcase](#map-showcase)
 
-[Artwork](#-artwork)
-
 [How to play the maps](#how-to-play-the-maps)
 
   - [Converting the song for BeatSaber](#converting-the-song-for-beatsaber)
   - [Song information](#song-information)
+
+[Artwork](#artwork)
 
 ## Milky Queen
 
@@ -34,8 +34,6 @@ She is a VSinger that composes most of her music and also streams as a VTuber
 - **Hard** - 405 notes - 2.60 nps - [YouTube](https://youtu.be/TEuVHXZfqU4)
 - **Expert [Single Saber]** - 359 notes - 2.31 nps - [YouTube](https://youtu.be/JDhlVuBoZaU)
 - **Expert+** - 715 notes - 4.59 nps - [YouTube](https://youtu.be/SgDnngMdg24)
-
-## Artwork
 
 ## How to play the maps
 To play the map you need to place the song as a file called `song.ogg` alongside the other files, and the directory should look like this:
@@ -84,3 +82,8 @@ Each mapped song has a beat where the map expects the first beat of the song, th
 #### Meteor
 - First beat: `2.000` seconds (5th beat ingame, at 150 BPM)
 - Silence to add: `1.525` seconds
+
+## Artwork
+
+I made the artwork used for the songs ingame for the **Milky Way EP**. [My twitter post as a source](https://twitter.com/SukunaShinmyou1/status/1728223743930245590)
+![](artwork.png)
