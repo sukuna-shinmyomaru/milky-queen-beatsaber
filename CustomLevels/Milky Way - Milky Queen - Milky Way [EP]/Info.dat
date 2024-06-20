@@ -1,18 +1,18 @@
 {
   "_version" : "2.1.0",
-  "_songName" : "Palace of Glass",
+  "_songName" : "Milky Way",
   "_songSubName" : "Milky Way [EP]",
   "_songAuthorName" : "Milky Queen",
   "_levelAuthorName" : "Sukuna Shinmyoumaru",
-  "_beatsPerMinute" : 120,
-  "_previewStartTime" : 53.8,
-  "_previewDuration" : 17,
+  "_beatsPerMinute" : 150,
+  "_previewStartTime" : 54.8,
+  "_previewDuration" : 24,
   "_songTimeOffset" : 0,
   "_shuffle" : 0,
   "_shufflePeriod" : 0.5,
   "_coverImageFilename" : "cover.png",
   "_songFilename" : "song.ogg",
-  "_environmentName" : "BigMirrorEnvironment",
+  "_environmentName" : "TimbalandEnvironment",
   "_allDirectionsEnvironmentName" : "GlassDesertEnvironment",
   "_environmentNames" : [
   ],
@@ -22,7 +22,7 @@
     "_editors" : {
       "_lastEditedBy" : "ChroMapper",
       "ChroMapper" : {
-        "version" : "0.10.753"
+        "version" : "0.10.763"
       }
     }
   },
@@ -31,20 +31,11 @@
       "_beatmapCharacteristicName" : "Standard",
       "_difficultyBeatmaps" : [
         {
-          "_difficulty" : "Normal",
-          "_difficultyRank" : 3,
-          "_beatmapFilename" : "NormalStandard.dat",
-          "_noteJumpMovementSpeed" : 7,
-          "_noteJumpStartBeatOffset" : -1,
-          "_beatmapColorSchemeIdx" : 0,
-          "_environmentNameIdx" : 0
-        },
-        {
           "_difficulty" : "Hard",
           "_difficultyRank" : 5,
           "_beatmapFilename" : "HardStandard.dat",
           "_noteJumpMovementSpeed" : 10,
-          "_noteJumpStartBeatOffset" : 0,
+          "_noteJumpStartBeatOffset" : -0.875,
           "_beatmapColorSchemeIdx" : 0,
           "_environmentNameIdx" : 0
         },
@@ -52,8 +43,8 @@
           "_difficulty" : "Expert",
           "_difficultyRank" : 7,
           "_beatmapFilename" : "ExpertStandard.dat",
-          "_noteJumpMovementSpeed" : 14,
-          "_noteJumpStartBeatOffset" : -0.625,
+          "_noteJumpMovementSpeed" : 13,
+          "_noteJumpStartBeatOffset" : 0.25,
           "_beatmapColorSchemeIdx" : 0,
           "_environmentNameIdx" : 0
         }
@@ -66,8 +57,8 @@
           "_difficulty" : "Expert",
           "_difficultyRank" : 7,
           "_beatmapFilename" : "ExpertOneSaber.dat",
-          "_noteJumpMovementSpeed" : 14,
-          "_noteJumpStartBeatOffset" : -0.625,
+          "_noteJumpMovementSpeed" : 13,
+          "_noteJumpStartBeatOffset" : 0.25,
           "_beatmapColorSchemeIdx" : 0,
           "_environmentNameIdx" : 0
         }

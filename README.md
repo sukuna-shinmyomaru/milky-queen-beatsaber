@@ -26,14 +26,25 @@ She is a VSinger that composes most of her music and also streams as a VTuber
 ## Map showcase
 
 #### Palace of Glass
-- **Normal** - 366 notes - 1.79 nps - [YouTube](https://youtu.be/kincBdcyYj4)
+- **Normal** - 366 notes - 1.79 nps - [YouTube](https://youtu.be/t8FX5rr9rMs)
 - **Hard** - 525 notes - 2.56 nps - [YouTube](https://youtu.be/kooc_ygiHVw)
 - **Expert** - 791 notes - 3.86 nps - [YouTube](https://youtu.be/kincBdcyYj4)
+- **Expert [Single Saber]** - 453 notes - 2.21 nps -  [YouTube](https://youtu.be/nM1EYNRUTsg)
 
 #### Meteor
 - **Hard** - 405 notes - 2.60 nps - [YouTube](https://youtu.be/TEuVHXZfqU4)
 - **Expert [Single Saber]** - 359 notes - 2.31 nps - [YouTube](https://youtu.be/JDhlVuBoZaU)
 - **Expert+** - 715 notes - 4.59 nps - [YouTube](https://youtu.be/SgDnngMdg24)
+
+#### Milky Way
+- **Hard** - 515 notes - 2.54 nps - [YouTube](https://youtu.be/_picMb1D7lA)
+- **Expert** - 641 notes - 3.16 nps - [YouTube](https://youtu.be/Sf4KRKRo6VU)
+- **Expert [Single Saber]** - 515 notes - 2.54 nps - [YouTube](https://youtu.be/Wcqrvwkh0FI)
+
+#### Regina
+- **Hard** - 650 notes - 2.82 nps - [YouTube](https://youtu.be/XQomgV2yslA)
+- **Expert** - 864 notes - 3.75 nps - [YouTube](https://youtu.be/seWi_9Y_6og)
+- **Light Expert+ [Single Saber]** - 587 notes - 2.55 nps - [YouTube](https://youtu.be/pqNHX0CwoBU)
 
 ## How to play the maps
 
@@ -46,6 +57,7 @@ To play the map you need to place the song as a file called `song.ogg` alongside
   \Palace of Glass - Milky Queen - Milky Way [EP]
      BPMInfo.dat
      cover.png
+     ExpertOneSaber.dat
      ExpertStandard.dat
      HardStandard.dat
      Info.dat
@@ -76,17 +88,38 @@ You can generate the needed file `song.ogg` with [Audacity](https://www.audacity
 
 ### Song information
 
-Each mapped song has a beat where the map expects the first beat of the song, that's the result that matters. I'm also going to provide the silence interval I had to add use at the start, but **this might be different on other releases**
+Each mapped song has a beat where the map expects the first beat of the song, that's the result that matters. I'm also going to provide the silence interval I had to add use at the start, but **this might be different on other releases**. Only the result matters in the end, the file should be silent until getting to the first beat and match the waveform screenshots below:
 
 #### Palace of Glass
 - First beat: `2.000` seconds (4th beat ingame, at 120 BPM)
 - Silence to add: `1.525` seconds
+- How the `song.ogg` file should look like, relative to the first beat:
+
+![](docs/palace_of_glass_start.png)
 
 #### Meteor
 - First beat: `2.000` seconds (5th beat ingame, at 150 BPM)
 - Silence to add: `1.525` seconds
+- How the `song.ogg` file should look like, relative to the first beat:
+
+![](docs/meteor_start.png)
+
+#### Milky Way
+- First beat: `2.000` seconds (5th beat ingame, at 150 BPM)
+- Silence to add : `1.510` seconds
+- How the `song.ogg` file should look like, relative to the first beat:
+
+![](docs/milky_way_start.png)
+
+#### Regina
+- First beat: `2.182` seconds (4th beat ingame, at 110 BPM)
+- Silence to add : `1.750` seconds
+- How the `song.ogg` file should look like, relative to the first beat:
+
+![](docs/regina_start.png)
 
 ## Artwork
 
 I made the artwork used for the songs ingame for the **Milky Way EP**. [My twitter post as a source](https://twitter.com/SukunaShinmyou1/status/1728223743930245590)
+
 ![](artwork.png)
