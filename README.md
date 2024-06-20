@@ -19,7 +19,7 @@ This is a collection of the Milky Queen songs I have mapped and can be played on
 
 She is a VSinger that composes most of her music and also streams as a VTuber
 
-[Twitter](https://twitter.com/milkyqueen_idol/) - [YouTube](https://www.youtube.com/@MilkyQueenVsinger)
+[Twitch](https://www.twitch.tv/milkyqueen_idol) - [YouTube](https://www.youtube.com/@MilkyQueenVsinger) - [Twitter](https://twitter.com/milkyqueen_idol/)
 
 [Milky Way (EP)](https://linkco.re/dy4ZpFgH)
 
@@ -33,8 +33,8 @@ She is a VSinger that composes most of her music and also streams as a VTuber
 
 #### Meteor
 - **Hard** - 405 notes - 2.60 nps - [YouTube](https://youtu.be/TEuVHXZfqU4)
-- **Expert [Single Saber]** - 359 notes - 2.31 nps - [YouTube](https://youtu.be/JDhlVuBoZaU)
-- **Expert+** - 715 notes - 4.59 nps - [YouTube](https://youtu.be/SgDnngMdg24)
+- **Expert [Single Saber]** - 359 notes - 2.31 nps - [YouTube](https://youtu.be/SgDnngMdg24)
+- **Expert+** - 715 notes - 4.59 nps - [YouTube](https://youtu.be/JDhlVuBoZaU)
 
 #### Milky Way
 - **Hard** - 515 notes - 2.54 nps - [YouTube](https://youtu.be/_picMb1D7lA)
@@ -69,7 +69,7 @@ The song must be encoded with _OGG Vorbis_. You'll have to add silence at the st
 
 ### Converting the song for BeatSaber
 
-You can generate the needed file `song.ogg` with [Audacity](https://www.audacityteam.org/) or any other audio editor. Audacity is open source and free, so I 
+You can generate the needed file `song.ogg` with [Audacity](https://www.audacityteam.org/) or any other audio editor. Audacity is open source and free, so I'm going to explain how to do it with this tool.
 
 1. Get the song file(s): **[You can purchase/stream the EP songs here](https://linkco.re/dy4ZpFgH)**
 2. To generate silence:
@@ -81,9 +81,9 @@ You can generate the needed file `song.ogg` with [Audacity](https://www.audacity
 - Go to `File > Export Audio`
 - Select `Format: Ogg Vorbis Files`
 - Audio options recommended:
-	- Channels: `Stereo`
-	- Sample Rate: `44100` or `48000` Hz (should match your source file by default)
-	- Quality: `8`
+  - Channels: `Stereo`
+  - Sample Rate: `44100` or `48000` Hz (should match your source file by default)
+  - Quality: `8`
 - Setting the File Name to `song.ogg` press _Export_ and place it along the other files
 
 ### Song information
